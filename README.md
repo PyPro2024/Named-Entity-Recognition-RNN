@@ -1,4 +1,4 @@
-# Named-Entity-Recognition-RNN
+
 # Recurrent Neural Network for Named Entity Recognition (NER)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
